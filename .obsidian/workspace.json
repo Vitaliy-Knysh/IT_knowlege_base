@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61eff7ab4cbe88a9",
+            "id": "8f63b89dfb4499df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Пробелы в теории.md",
+                "file": "Java/JQuery.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Пробелы в теории.md",
+                "file": "Java/JQuery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Пробелы в теории.md",
+                "file": "Java/JQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Пробелы в теории.md"
+                "file": "Java/JQuery.md"
               }
             }
           }
@@ -147,10 +147,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "61eff7ab4cbe88a9",
+  "active": "8f63b89dfb4499df",
   "lastOpenFiles": [
+    "Java/AJAX.md",
+    "HTML/Таблицы.md",
+    "Java/JQuery.md",
     "Python/asyncio/Теория.md",
+    "Python/Elastic search/Введение и основные понятия.md",
+    "Python/Elastic search/Практика.md",
+    "Трекер/Известные_способы_взаимодействия_с_AQS.md",
+    "Java",
+    "Docker/Введение и основные понятия.md",
+    "CSS/Grid.md",
+    "CSS/Flexbox.md",
+    "HTML/Формы.md",
+    "CSS",
     "Python/Пробелы в теории.md",
+    "HTML",
     "Python/asyncio/Практика.md",
     "Linux/System v и System D.md",
     "Linux/Процесс init().md",
