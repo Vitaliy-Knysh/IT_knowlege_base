@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2af8a48ce2147316",
+        "id": "1d4479ccdb9b3fec",
         "type": "tabs",
         "children": [
           {
-            "id": "8f63b89dfb4499df",
+            "id": "3b75f642d197e4b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JQuery.md",
+                "file": "Python/Textual.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "4a4261dc5acf30a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/JQuery.md",
+                "file": "Python/Textual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/JQuery.md",
+                "file": "Python/Textual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/JQuery.md"
+                "file": "Python/Textual.md"
               }
             }
           }
@@ -147,30 +155,41 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8f63b89dfb4499df",
+  "active": "3b75f642d197e4b6",
   "lastOpenFiles": [
-    "Java/AJAX.md",
-    "HTML/Таблицы.md",
-    "Java/JQuery.md",
+    "2023-05-30.md",
+    "Без названия.canvas",
+    "Python/ООП.md",
+    "Pasted image 20230529173240.png",
+    "Python/Пробелы в теории.md",
+    "Python/Алгоритмы.md",
+    "roadmap.png",
+    "Python/Textual.md",
+    "Ansible/Ad-hoc команды.md",
+    "Ansible/Введение.md",
+    "Ansible/Инвентарный файл.md",
+    "Ansible/Конфигурационный файл.md",
+    "Ansible/Практика.md",
     "Python/asyncio/Теория.md",
+    "().md",
+    "Javascript/Основы.md",
+    "Ansible",
+    "Javascript/JQuery.md",
+    "Javascript/AJAX.md",
+    "HTML/Таблицы.md",
+    "HTML/Формы.md",
     "Python/Elastic search/Введение и основные понятия.md",
     "Python/Elastic search/Практика.md",
     "Трекер/Известные_способы_взаимодействия_с_AQS.md",
-    "Java",
+    "Javascript",
     "Docker/Введение и основные понятия.md",
     "CSS/Grid.md",
     "CSS/Flexbox.md",
-    "HTML/Формы.md",
     "CSS",
-    "Python/Пробелы в теории.md",
     "HTML",
     "Python/asyncio/Практика.md",
     "Linux/System v и System D.md",
-    "Linux/Процесс init().md",
-    "Linux/Как работает загрузчик GRUB.md",
     "Pasted image 20230328162202.png",
-    "Linux/Как загружается ядро Linux.md",
-    "Linux/Как загружается ОС Linux.md",
     "Python/asyncio"
   ]
 }
