@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/ООП.md",
+                "file": "Python/socket.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/ООП.md",
+                "file": "Python/socket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/ООП.md",
+                "file": "Python/socket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/ООП.md"
+                "file": "Python/socket.md"
               }
             }
           }
@@ -157,17 +157,18 @@
   },
   "active": "de995aa969e01071",
   "lastOpenFiles": [
+    "Python/Алгоритмы.md",
+    "Python/socket.md",
+    "2023-05-30.md",
+    "Python/ООП.md",
+    "Python/Пробелы в теории.md",
     "Pasted image 20230531183435.png",
     "Pasted image 20230531173255.png",
-    "Python/Пробелы в теории.md",
     "Python/Textual.md",
-    "Python/ООП.md",
-    "Python/Алгоритмы.md",
     "Pasted image 20230531140436.png",
     "Ansible/Ad-hoc команды.md",
     "Python/asyncio/Теория.md",
     "Python/asyncio/Практика.md",
-    "2023-05-30.md",
     "Без названия.canvas",
     "Pasted image 20230529173240.png",
     "roadmap.png",
